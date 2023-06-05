@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #9453a6;
+  color: #0d0d0d;
+  font-family: "roboto", sans-serif;
+}
+footer {
+  background-color: #f2cc0f !important;
+  font-weight: bolder;
+}
+#navbar {
+  background-color: #8cbf3f !important;
+  font-family: "Henny Penny";
+  font-weight: bolder;
+}
+#about {
+  font-weight: bold;
+}
+#mayor,
+.card-body {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+}
+h1,
+h3 {
+  text-align: center;
+  font-family: "Pattaya";
+  font-weight: bold;
+}
+h5,
+h2 {
+  font-weight: bold;
+}
+.desc {
+  color: #0d0d0d !important;
+  font-size: large;
+  font-weight: bold !important;
+  background-color: #f2cc0f;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+.modal-fade {
+  max-height: 100vh;
+  width: auto;
+}
